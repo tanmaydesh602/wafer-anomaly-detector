@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+venv_old/
+
+# Data files (too large for git)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac junk
+.DS_Store
